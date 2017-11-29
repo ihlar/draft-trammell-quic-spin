@@ -280,6 +280,11 @@ available for arbitrarily small aggregates.
 
 \[EDITOR'S NOTE: Markus on AQM?]
 
+## Centralized AQM in Cellular Networks
+
+Cellular networks are highly dynamic and users are often mobile. A user can
+seamlessly traverse multiple cells with different access technologies. 
+
 \[EDITOR'S NOTE: Others?]
 
 # Privacy and Security Considerations
